@@ -336,6 +336,11 @@ ul {
     text-decoration: none;
     font-size: 23px;
 }
+.email {
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    color: #000000;
+}
 @media only screen and (max-width: 767px) {
     /* For mobile phones: */
     .navbar {
